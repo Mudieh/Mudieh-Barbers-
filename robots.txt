@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mudieh.github.io/Mudieh-Barbers-/sitemap.xml
+Sitemap: https://mudieh.github.io/Mudieh-Barbers-/video-sitemap.xml

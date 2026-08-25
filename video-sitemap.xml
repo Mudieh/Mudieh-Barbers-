@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://mudieh.github.io/Mudieh-Barbers-/video.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://mudieh.github.io/Mudieh-Barbers-/shop.jpg</video:thumbnail_loc>
+      <video:title>Mudieh &amp; Barbers Barbershop and Haircut Work</video:title>
+      <video:description>A look at Mudieh &amp; Barbers in Kagongwa, Shinyanga, including the barbershop and haircut and grooming work offered there.</video:description>
+      <video:content_loc>https://mudieh.github.io/Mudieh-Barbers-/barbershop.mp4</video:content_loc>
+    </video:video>
+  </url>
+</urlset>
